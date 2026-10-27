@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://i.imgur.com/3Y1Z8m0.png" group-title="General", Telefe
-https://amedia-telefe.telecom.com.ar/live/hls/telefe-baires/telefe-baires.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://i.imgur.com/bZ2l6bK.png" group-title="General", El Trece
-https://live-hls-eltrece.vodgc.net/eltrecetv/hls/live/index.m3u8
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="El Nueve" tvg-logo="https://i.imgur.com/p1Z9Qk1.png" group-title="General", El Nueve
-https://live-elnueve.telecom.com.ar/live/hls/canal9/canal9.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://i.imgur.com/t4J2Zk2.png" group-title="Deportes", TyC Sports
-https://live-tycsports.telecom.com.ar/live/hls/tycsports/tycsports.m3u8
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://i.imgur.com/k9L2mN1.png" group-title="Deportes", ESPN Premium Argentina
-https://shls-g304.telecom.com.ar/live/hls/espn-premium/espn-premium.m3u8
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports" tvg-logo="https://i.imgur.com/r8P3xV2.png" group-title="Deportes", TNT Sports Premium
-https://shls-g304.telecom.com.ar/live/hls/tnt-sports/tnt-sports.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium Argentina" tvg-logo="https://www.tvporinternet.org/imge/espnpremium.webp" group-title="Deportes",🟢 P3 - ESPN Premium Argentina
+http://108.175.13.7/live/360537de-cee5-42ee-a0d8-a98303b6ca7a/5abefe66e80584e3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://www.tvporinternet.org/imge/tycsports.webp" group-title="Deportes",🟢 P3 - TyC Sports
+http://108.175.13.7/live/360537de-cee5-42ee-a0d8-a98303b6ca7a/d3a1fbf796c305e8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://www.tvporinternet.org/imge/telefe.webp" group-title="Regionales",🟢 P3 - Telefe
+http://108.175.13.7/live/360537de-cee5-42ee-a0d8-a98303b6ca7a/ccde72482689d465/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Trece" tvg-logo="https://www.tvporinternet.org/imge/eltrece.webp" group-title="Regionales",🟢 P3 - El Trece
+http://108.175.13.7/live/360537de-cee5-42ee-a0d8-a98303b6ca7a/c41befc99769c7cf/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premium" tvg-logo="https://www.tvporinternet2.com/imge/foxsportspremium.webp" group-title="Argentina",🟢 P4 - TNT Sports Premium
+http://108.175.13.7/live/360537de-cee5-42ee-a0d8-a98303b6ca7a/1d9be900ace2b014/index.m3u8
+#EXTINF:-1 tvg-id="ElNueve.ar@SD" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="General",El Nueve (1080p)
+http://15.204.246.24:8080/elnueveHD/index.m3u8
