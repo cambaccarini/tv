@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="https://i.imgur.com/3Y1Z8m0.png" group-title="General", Telefe
+https://amedia-telefe.telecom.com.ar/live/hls/telefe-baires/telefe-baires.m3u8
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="https://i.imgur.com/bZ2l6bK.png" group-title="General", El Trece
+https://live-hls-eltrece.vodgc.net/eltrecetv/hls/live/index.m3u8
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="El Nueve" tvg-logo="https://i.imgur.com/p1Z9Qk1.png" group-title="General", El Nueve
+https://live-elnueve.telecom.com.ar/live/hls/canal9/canal9.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://i.imgur.com/t4J2Zk2.png" group-title="Deportes", TyC Sports
+https://live-tycsports.telecom.com.ar/live/hls/tycsports/tycsports.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://i.imgur.com/k9L2mN1.png" group-title="Deportes", ESPN Premium Argentina
+https://shls-g304.telecom.com.ar/live/hls/espn-premium/espn-premium.m3u8
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="TNT Sports" tvg-logo="https://i.imgur.com/r8P3xV2.png" group-title="Deportes", TNT Sports Premium
+https://shls-g304.telecom.com.ar/live/hls/tnt-sports/tnt-sports.m3u8
