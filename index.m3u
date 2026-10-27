@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium Argentina" tvg-logo="https://www.tvporinternet.org/imge/espnpremium.webp" group-title="Deportes",🟢 P3 - ESPN Premium Argentina
-http://108.175.13.7/live/360537de-cee5-42ee-a0d8-a98303b6ca7a/5abefe66e80584e3/index.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Sports",ESPN Premium (Argentina) HD (1080p)
+http://158.172.155.130:8000/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://www.tvporinternet.org/imge/tycsports.webp" group-title="Deportes",🟢 P3 - TyC Sports
 http://108.175.13.7/live/360537de-cee5-42ee-a0d8-a98303b6ca7a/d3a1fbf796c305e8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telefe" tvg-logo="https://www.tvporinternet.org/imge/telefe.webp" group-title="Regionales",🟢 P3 - Telefe
